@@ -1,4 +1,4 @@
-#This is not a program
+# This is not a program
 ## this is my first repo
 Ez egy valami
 - 1
